@@ -1,0 +1,3 @@
+fg/model_logs
+fg/neuralgym_logs
+fg/data
