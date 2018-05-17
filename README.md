@@ -13,7 +13,7 @@ This repository contains the code for an integrated pipeline used to inpaint ima
 * Install skimage
 * Install OpenCV
 * Download the pretrained models for foreground from (https://drive.google.com/drive/folders/1mGomKU3YYtx-b3G27VAHekUmMCANXFx_?usp=sharing) and place it under `fg/model_logs`
-* Download the pretrained tagger from () and place it under `tag/models`
+* Download the pretrained tagger from (https://drive.google.com/open?id=15LRt2MPTUUBUFCIakLthSYNZ01Ie3yke) and place it under `tag/models`
 
 # Usage
 ````
